@@ -6,3 +6,4 @@ null队的师傅是真2天从0开始学智能合约逆向，膜一膜。
 
 wp我就懒得写了，看源码就能知道很简单的题。
 
+writeup: <https://xz.aliyun.com/t/3261#toc-20>
